@@ -6,7 +6,8 @@
 # FastPAI_EndPoint-IOS
 Full Stack Endpoint Rest API 
 
-# Welcome to Full Stack Source Code 
+
+### Create Custom CRUD Restfull FastAPI Endpoint und use this Endpoint To create IOS CRUD APP 
 
 
 ## FastAPI contains
@@ -15,10 +16,13 @@ Full Stack Endpoint Rest API
 > FastAPI CRUD operations 
 > 
 > SQLite Database
+>
 > 
-## Installation
+Installation
 > pip install -r requirements.txt
-
+> 
+ Usage
+> python main.py
 
 
 ----------------------------------------------------
@@ -27,13 +31,10 @@ Full Stack Endpoint Rest API
 ## IOS contains
 >  application (Models, Routes, Controller)
 > 
->  CRUD operations 
+>  CRUD operations
 > 
+ Installation
+> - run app
 
 
-## Installation
-> pip install -r requirements.txt
 
-
-## Usage
-> python main.py
